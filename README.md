@@ -5,3 +5,4 @@
 - Day 04 ✅ (Searching & pair sum)
 - Day 05 ✅ (Majority element & zero movement)
 - Day 06 ✅ (Strings & DP: subsequence, minimum deletions)
+- Day 07 ✅ (Check if array is sorted)
