@@ -6,3 +6,4 @@
 - Day 05 ✅ (Majority element & zero movement)
 - Day 06 ✅ (Strings & DP: subsequence, minimum deletions)
 - Day 07 ✅ (Check if array is sorted)
+- Day 08 ✅ (Kadane & greedy stock profit)
