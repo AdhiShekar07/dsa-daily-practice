@@ -8,3 +8,4 @@
 - Day 07 ✅ (Check if array is sorted)
 - Day 08 ✅ (Kadane & greedy stock profit)
 - Day 09 ✅ (Equilibrium index & leaders)
+- Day 10 ✅ (Two pointer & rain water problems)
